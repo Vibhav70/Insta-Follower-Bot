@@ -17,6 +17,6 @@ This is a simple Instagram follower bot built using Selenium. The bot automates 
 <b> Note </b> : Update the `USERNAME`, `PASSWORD`, and `URL` variables in the script with your Instagram credentials and the target user's URL.
 
 <video width="640" height="360" controls>
-    <source src="your-video-file.mp4" type="video/mp4">
+    <source src="Instagram - Google Chrome 2024-01-21 19-47-38.mp4" type="video/mp4">
 </video>
 
