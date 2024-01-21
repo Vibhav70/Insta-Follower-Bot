@@ -17,3 +17,7 @@ This is a simple Instagram follower bot built using Selenium. The bot automates 
 <b> Note </b> : Update the `USERNAME`, `PASSWORD`, and `URL` variables in the script with your Instagram credentials and the target user's URL.
 
 
+
+
+https://github.com/Vibhav70/Insta-Follower-Bot/assets/121049553/7a7b30d3-b161-41d4-8cbd-b79455dd67a6
+
